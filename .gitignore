@@ -1,2 +1,6 @@
 *.swp
 *.un~
+__pycache__/
+*.pyc
+/build/
+/dist/
